@@ -1,0 +1,9 @@
+{
+  "default_prefix": ",",
+  "owners": ["776747395878354974"],
+  "timeout": 300000,
+  "invite_link": "https://discord.com/api/oauth2/authorize?client_id=856868220316024882&permissions=8&scope=bot",
+  "error_logs": "832588689325424690",
+  "success_logs": "859360843882561578",
+  "disable_fetching": false
+}
